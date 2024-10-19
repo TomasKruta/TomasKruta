@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @TomasKruta
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# windows apps, HTML, CSS
-- 💞️ I’m looking to collaborate on creating apps
-- 😄 My hobbies: cycling, programming and creating
-- ⚡ I am a PORSCHE fan
-
-
 # 💫 About Me:
-🤖 I’m currently creating C# MAUI/WinUI apps and C++ apps<br>🧐 I’m currently learning C# MAUI/WinUI, C++
+👋 I’m @TomasKruta<br>🤖 I’m currently creating C# MAUI/WinUI apps and C++ apps<br>🧐 I’m currently learning C# MAUI/WinUI, C++, HTML, CSS<br>😄 My hobbies: cycling, programming and creating<br>⚡ I am a PORSCHE fan
 
 
 # 💻 Tech Stack:
