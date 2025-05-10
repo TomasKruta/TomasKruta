@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m @TomasKruta<br>🤖 I’m currently creating C# MAUI/WinUI apps and C++ apps<br>🧐 I’m currently learning C# MAUI/WinUI, C++, python<br>😄 My hobbies: cycling and programming<br>⚡ I am a PORSCHE fan
+👋 I’m @TomasKruta<br>🤖 I’m currently creating C# MAUI/WinUI apps, C++ apps and AR/VR headset in python<br>🧐 I’m currently learning C# MAUI/WinUI, C++, python<br>😄 My hobbies: cycling and programming<br>⚡ I am a PORSCHE fan
 
 
 # 💻 Tech Stack:
