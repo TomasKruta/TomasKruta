@@ -1,6 +1,6 @@
 # Tomáš Krůta
 
-High school student in Plzeň, Czech Republic, building things where software meets hardware — robots, computer vision, and the occasional game or tool. Everything I've made lives at [tomaskruta.github.io](https://tomaskruta.dev).
+High school student in Plzeň, Czech Republic, building things where software meets hardware — robots, computer vision, and the occasional game or tool. Everything I've made lives at [tomaskruta.dev](https://tomaskruta.dev).
 
 ## Stack
 
